@@ -1,0 +1,55 @@
+body {
+  background: #4C0504;
+}
+
+h1 {
+  font-weight: bold;
+  text-align: center;
+  font-size: 4em;
+  color: white;
+  font-family: 'Lemon', cursive;
+}
+
+h2, h3, h4{
+  color: white;
+  font-family: 'Nixie One', cursive;
+}
+
+p, li {
+  color: white;
+  font-family: 'Noto Serif', serif;
+}
+
+.juice {
+  font-weight: bold;
+  font-size: 16px;
+  font-style: italic;
+}
+
+img {
+  width: 200px;
+}
+
+.buffet {
+  width: 300px;
+}
+
+img, .buffet {
+  border-radius: 10px;
+}
+
+
+/* Mobile */
+@media (max-width: 768px) {
+};
+
+
+/* Tablet */
+@media (max-width: 991px) {
+ 
+};
+
+/* Desktop */
+@media (min-width: 992px) {
+
+};
